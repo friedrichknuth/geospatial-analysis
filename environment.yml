@@ -7,7 +7,7 @@ dependencies:
 - geopandas
 - matplotlib
 - shapely
-- mpl_toolkits
+# - mpl_toolkits
 - ipyleaflet
 - cartopy
 - rasterio
