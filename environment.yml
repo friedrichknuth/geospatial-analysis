@@ -1,0 +1,17 @@
+channels:
+- conda-forge
+
+dependencies:
+- numpy
+- pandas
+- geopandas
+- matplotlib
+- shapely
+- mpl_toolkits
+- ipyleaflet
+- cartopy
+- rasterio
+
+pip:
+  - contextily
+  - pygeotools
